@@ -17,7 +17,8 @@ echo "contest, but in the event you figure out how to do it, you will NOT get th
 echo "<br/>\n";
 echo "Submit the codes to the following URL as shown below...<br/>\n";
 echo "<br/>\n";
-echo "https://goldenticket.lyttonlabs.org/goldenticketcheck.php?codeA=[CODEA]&codeB=[CODEB]<br/>\n";
+//echo "https://goldenticket.lyttonlabs.org/goldenticketcheck.php?codeA=[CODEA]&codeB=[CODEB]<br/>\n";
+echo "https://sweepstakes.lyttonlabs.org/lytton-labs-sweepstakes/goldenticketcheck.php?codeA=[CODEA]&codeB=[CODEB]<br/>\n";
 exit();
 }
 else
